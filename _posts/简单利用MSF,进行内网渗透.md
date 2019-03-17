@@ -1,14 +1,17 @@
 ---
-layout:     post
-title:      Metasploit，生成木马内网渗透
-subtitle:   Metasploit，简单vmware虚拟机内网渗透。
-date:       2019-3-17
-author:     陈建武
-header-img: img/post-bg-re-vs-ng2.jpg
-catalog: true
-tags:
-    - Blog
+layout:     post   				    # 使用的布局（不需要改）
+title:      My First Post 				# 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2017-02-06 				# 时间
+author:     BY 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 生活
 ---
+
+## Hey
+>这是我的第一篇博客。
 1.是首先打开kali-linux，（这里我使用的版本是2019.1），打开终端运行msfconsole。
 msfconsole
 2.等待MSF启动成功，利用MSF下的一插件msfvenom，来生成木马。
