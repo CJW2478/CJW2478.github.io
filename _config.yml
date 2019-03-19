@@ -1,9 +1,9 @@
 # Site settings
-title: '陈建武 博客'
+title: 陈建武 博客
 SEOTitle: 陈建武的博客 | cjw Blog
 header-img: img/post-bg-desk.jpg
 email: 247804921@qq.com
-description: "零基础如何学习渗透."
+description: 零基础如何学习渗透
 keyword: "cjw, cjw Blog, 陈建武的博客, chenjianwu, 陈建武, iOS, Apple, iPhone"
 url: "http://CJW2478.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
