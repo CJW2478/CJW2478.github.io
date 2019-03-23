@@ -28,7 +28,9 @@ tags:
 
 ![](https://s2.ax1x.com/2019/03/23/AGfU2V.md.png)
 
-## 运行rttercap的图形界面.
+## 运行ettercap的图形界面.
+
+#命令:ettercap -G
 
 ![](https://s2.ax1x.com/2019/03/23/AGfN80.png)
 
