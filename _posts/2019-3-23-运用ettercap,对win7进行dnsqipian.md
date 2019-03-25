@@ -3,7 +3,7 @@ layout:     post
 title:      dns欺骗
 subtitle:   对win7进行dns欺骗
 date:       2019-3-23
-author:     陈建武
+author:     cjw
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
